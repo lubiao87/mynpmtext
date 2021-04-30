@@ -1,7 +1,7 @@
 {
   "name": "a202104",
   "version": "1.0.0",
-  "description": "",
+  "description": "判断一个字符串是否为null, 或空字符串，或undefined",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,5 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "repository": "https://github.com/lubiao87/mynpmtext.git"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lubiao87/mynpmtext.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lubiao87/mynpmtext/issues"
+  },
+  "homepage": "https://github.com/lubiao87/mynpmtext#readme"
 }
